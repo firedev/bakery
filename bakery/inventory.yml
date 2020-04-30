@@ -1,0 +1,17 @@
+VS5:
+  title: Vegemite Scroll
+  packs:
+    5: 8.99
+    3: 6.99
+MB11:
+  title: Blueberry Muffin
+  packs:
+    8: 24.95
+    5: 16.95
+    2: 9.95
+CF:
+  title: Croissant
+  packs:
+    9: 16.99
+    5: 9.95
+    3: 5.95
